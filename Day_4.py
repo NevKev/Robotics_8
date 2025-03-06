@@ -1,0 +1,7 @@
+print ("Welcome to your customizable adventure sim! Please answer these questions to start!")
+myName = input("What is your name? ")
+myEnemy = input("What is your worst enemy’s name? ")
+mySuper = input("What is your superpower? ")
+myLocation = input ("Where do you live? ")
+myFood = input("What is your favorite food?")
+print("Hello" , myName , "! Your ability to" , mySuper , "will make sure you never have to look at" , myEnemy , "again. Go eat" , myFood , "as you walk down the streets of" , myLocation , "and use" , mySuper , "for \033[32mgood \033[0mand not \033[31mevil!")
