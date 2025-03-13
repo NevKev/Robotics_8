@@ -10,4 +10,4 @@ if tvShow == "Wild Kratts":
 elif tvShow == "Spongebob":  # Moved elif to be after else
   print("Thats what im talking about")
 else:)
-  print("Yeah, that's cool and all but spongebob is the greatest…"
+  print("Yeah, that's cool and all but spongebob is the greatest…")
